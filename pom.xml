@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>cn.jjnian.mybatis</groupId>
+    <artifactId>mybatis</artifactId>
+    <version>1.0</version>
+
+    <packaging>pom</packaging>
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+
+    <modules>
+        <module>mybatis-step-00</module>
+        <module>mybatis-step-01</module>
+        <module>mybatis-step-02</module>
+        <module>mybatis-step-03</module>
+        <module>mybatis-step-04</module>
+        <module>mybatis-step-05</module>
+        <module>mybatis-step-06</module>
+        <module>mybatis-step-07</module>
+        <module>mybatis-step-08</module>
+        <module>mybatis-step-09</module>
+        <module>mybatis-step-10</module>
+        <module>mybatis-step-11</module>
+        <module>mybatis-step-12</module>
+        <module>mybatis-step-13</module>
+        <module>mybatis-step-14</module>
+        <module>mybatis-step-15</module>
+        <module>mybatis-step-16</module>
+        <module>mybatis-step-17</module>
+        <module>mybatis-step-18</module>
+        <module>mybatis-step-19</module>
+        <module>mybatis-step-20</module>
+        <module>mybatis-step-21</module>
+    </modules>
+
+</project>
